@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #c4b5fd;
+}
+
+.input-emoji {
+  width: 60%;
+  height: 12vh;
+  color: gray;
+  background-color: #ddd6fe;
+  font-size: 1.3rem;
+}
